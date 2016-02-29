@@ -51,7 +51,7 @@ Partial Class PizzaBiTForm
         '
         Me.btnCreatePizza.Location = New System.Drawing.Point(233, 300)
         Me.btnCreatePizza.Name = "btnCreatePizza"
-        Me.btnCreatePizza.Size = New System.Drawing.Size(124, 23)
+        Me.btnCreatePizza.Size = New System.Drawing.Size(113, 23)
         Me.btnCreatePizza.TabIndex = 0
         Me.btnCreatePizza.Text = "Create New Pizza"
         Me.btnCreatePizza.UseVisualStyleBackColor = True
